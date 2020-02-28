@@ -15,7 +15,7 @@ You will likely have 2 repositories - a frontend and a backend.
 
 Assuming you are building your frontend application with React, and using Create React App to do so, follow the below instructions to get your repository started:
 
-1. 1 member of the group creates an application with Create React App using the command `create-react-app project-name-frontend`
+1. 1 member of the group creates an application with Create React App using the command `npx create-react-app project-name-frontend`
 2. `cd project-name-frontend`
 3. Git will have been automatically by Create React App. If you do `git log` you will see the initial commit made by Create React App.
 4. Go to Github and create a new repository under your organisation. This will be for your frontend code.
